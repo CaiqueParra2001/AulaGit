@@ -1,0 +1,7 @@
+name: Qualquer Nome
+on: [push]
+jobs:
+  Explore-GitHub-Action:
+  runs-on: ubuntu-latest
+  step:
+  - run: echo "opa{{}}"
