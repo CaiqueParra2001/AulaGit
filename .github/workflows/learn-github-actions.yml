@@ -4,4 +4,4 @@ jobs:
   Explore-GitHub-Action:
   runs-on: ubuntu-latest
   steps:
-  - run: echo "opa{{}}"
+  - run: echo "opa"
