@@ -1,7 +1,7 @@
 name: Qualquer Nome
 on: [push]
 jobs:
-  Explore-GitHub-Action:
+  Explore-GitHub-Actions:
   runs-on: ubuntu-latest
   steps:
-  - run: echo "opa"
+  - run: echo "opas{{}}"
